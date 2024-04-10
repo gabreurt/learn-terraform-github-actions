@@ -28,19 +28,19 @@ O tutorial "Automate Terraform with GitHub Actions" demonstra como criar um flux
 5. Verificação da Implantação: Verificar se a instância do EC2 foi provisionada corretamente acessando o link fornecido na Terraform Cloud e testando a conexão com a instância por meio de um navegador ou ferramenta de linha de comando.
 
 ## Resultados
-Pull request
+### Pull request
 ![PR](assets/pr.png)
 
-Fim do merge
+### Fim do merge
 ![Merge](assets/merge_terminado.png)
 
-Imagem no Terraform
+### Imagem no Terraform
 ![Terraform](assets/imagem_do_terraform.png)
 
-Resposta do EC2
+### Resposta do EC2
 ![Resposta do EC2](assets/resposta_ec2.png)
 
-EC2 na AWS
+### EC2 na AWS
 ![Resposta do EC2](assets/instancia_criada.png)
 
 ## Conclusão
